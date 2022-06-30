@@ -1,6 +1,6 @@
 _edddddddddddddie_
 >   
-**thursday**
+
 
 **great__**
 
@@ -14,3 +14,5 @@ _edddddddddddddie_
 2. math is fun
 3. coding is fun as well
 4. 
+
+_great_
